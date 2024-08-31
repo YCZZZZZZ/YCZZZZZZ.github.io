@@ -4,7 +4,7 @@ layout: homepage
 
 <h1 id="about-me"></h1>
 
-<h2 style="margin: 60px 0px 10px;">Short Bio</h2>
+<h2 style="margin: 60px 0px 10px;">About Me</h2>
 
 I am currently a second-year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). 
 My research interest lies broadly in the field of Machine Learning and Artificial Intelligence. I aim to make AI and LLMs beneficial for everyone. I’m exploring how to enhance language models’ capabilities by representation steering, self-improvement and training data selection.
