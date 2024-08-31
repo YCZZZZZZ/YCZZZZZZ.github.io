@@ -6,23 +6,14 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a fourth-year Ph.D. student in the [Spoken Language Systems (LSV)](https://www.lsv.uni-saarland.de/) group at
-[Saarland University](https://www.uni-saarland.de/en/home.html),
-under the supervision of [Prof. Dietrich Klakow](https://scholar.google.de/citations?user=_HtGYmoAAAAJ).
-I am also a member of the [Saarbrücken Graduate School of Computer Science](https://www.graduateschool-computerscience.de/) 
-and the [SFB 1102-Information Density and Linguistic Encoding (IDeaL)](https://sfb1102.uni-saarland.de/) project.
-My research interests lie in the general area of natural language processing (NLP), with a particular focus on
-**representation analysis**, **multilingual modeling**, and **LLM alignment**.
+I am currently a second-year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) group at
+[Saarland University](https://www.uni-saarland.de/en/home.html), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). 
+My research interest lies broadly in the field of Machine Learning and Artificial Intelligence. I aim to make AI and LLMs beneficial for everyone. I’m exploring how to enhance language models’ capabilities by representation steering, self-improvement and training data selection.
 
-Previously, I obtained my Bachelor’s degree from [Harbin Engineering University](https://english.hrbeu.edu.cn/index.htm) in 2014 and my Master’s degree from 
-[Chinese Academy of Sciences](https://english.cas.cn/) in 2017. 
-Between 2017 and 2018, I worked as a Research & Development Engineer at Baidu Inc, and as an Algorithm Engineer at a startup. 
-In 2019, I completed a research immersion lab at [MPI-INF](https://www.mpi-inf.mpg.de/home) under the supervision of 
-[Prof. Bernt Schiele](https://www.mpi-inf.mpg.de/departments/computer-vision-and-machine-learning/people/bernt-schiele) 
-and [Dr. Yongqin Xian](https://xianyongqin.github.io/).
+Previously, I obtained a Bachelor’s degree from [Nanjing University of Information Science & Technology](https://en.nuist.edu.cn/main.psp) in 2021 and a Master’s degree from 
+[Washington University in St. Louis](https://washu.edu/) in 2023. 
 
-<b style='color:red;'> I am currently on the job market for 2025, looking for industry positions (internship/full-time) related to NLP and LLMs. 
-Please feel free to contact me if you are interested. </b>
+<!-- <b style='color:red;'> . </b> -->
 
 <!--
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am currently on the 2023-2024 academic job market, looking for faculty positions in CS, CSE, ECE, IEOR, etc., related to Artificial Intelligence, Computer Vision, and Machine Learning. Please feel free to contact me if you are interested. I am also happy to give talks on my research in related seminars.</strong></strong>
@@ -32,6 +23,6 @@ Please feel free to contact me if you are interested. </b>
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/activity.md %}
+{% include_relative _includes/services.md %}
 
-{% include_relative _includes/contact.md %}
+{% include_relative _includes/teaching.md %}

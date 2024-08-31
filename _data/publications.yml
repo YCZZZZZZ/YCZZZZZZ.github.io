@@ -1,50 +1,10 @@
 main:
 
-  - title: "The Impact of Demonstrations on Multilingual In-Context Learning: A Multidimensional Analysis"
-    authors: <strong>Miaoran Zhang</strong>, Vagrant Gautam, Mingyang Wang, Jesujoba O Alabi, Xiaoyu Shen, Dietrich Klakow, and Marius Mosbach
-    conference_short: ACL
-    conference: "Findings of the Association for Computational Linguistics: <strong>ACL 2024</strong>"
-    pdf: https://arxiv.org/abs/2402.12976
-    code: https://github.com/uds-lsv/multilingual-icl-analysis
-    image: assets/teaser/micl.png
+  - title: "SELF-CONTROL of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller"
+    authors: Min Cai, <strong>Yuchen Zhang</strong>, Shichang Zhang, Difan Zou, Yisong Yue, Ziniu Hu
+    conference_short: ICML MI Workshop & FM-Wild Workshop
+    conference: "ICML Workshop on Foundation Models in the Wild & ICML Mechanistic Interpretability Workshop <strong>ICML 2024</strong>"
+    pdf: https://arxiv.org/abs/2406.02721
+    code: https://github.com/HenryCai11/LLM-Self-Control
+    image: assets/teaser/Self-Control.png
 
-  - title: "AAdaM at SemEval-2024 Task 1: Augmentation and Adaptation for Multilingual Semantic Textual Relatedness"
-    authors: <strong>Miaoran Zhang</strong>, Mingyang Wang, Jesujoba O Alabi, and Dietrich Klakow
-    conference_short: SemEval
-    conference: "Proceedings of the 18th International Workshop on Semantic Evaluation, <strong>SemEval-2024</strong> (co-located with NAACL 2024)"
-    pdf: https://arxiv.org/abs/2404.01490
-    code: https://github.com/uds-lsv/AAdaM
-    image: assets/teaser/aadam.png
-    notes: Best Paper Award
-
-  - title: "A Lightweight Method to Generate Unanswerable Questions in English"
-    authors: Vagrant Gautam, <strong>Miaoran Zhang</strong>, and Dietrich Klakow
-    conference_short: EMNLP
-    conference: "Findings of the Association for Computational Linguistics: <strong>EMNLP 2023</strong>"
-    pdf: https://aclanthology.org/2023.findings-emnlp.491/
-    code: https://github.com/uds-lsv/unanswerable-question-generation
-    image: assets/teaser/uq.png
-
-  - title: "MCSE: Multimodal Contrastive Learning of Sentence Embeddings"
-    authors: <strong>Miaoran Zhang</strong>, Marius Mosbach, David Ifeoluwa Adelani, Michael A Hedderich, and Dietrich Klakow
-    conference_short: NAACL
-    conference: "Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, <strong>NAACL 2022</strong>"
-    pdf: https://aclanthology.org/2022.naacl-main.436/
-    code: https://github.com/uds-lsv/MCSE
-    image: assets/teaser/mcse.png
-
-  - title: "Knowledge Base Index Compression via Dimensionality and Precision Reduction"
-    authors: Vilém Zouhar, Marius Mosbach, <strong>Miaoran Zhang</strong>, and Dietrich Klakow
-    conference_short: Spa-NLP
-    conference: "Proceedings of the 1st Workshop on Semiparametric Methods in NLP: Decoupling Logic from Knowledge, <strong>Spa-NLP 2022</strong>"
-    pdf: https://aclanthology.org/2022.spanlp-1.5/
-    code: https://github.com/zouharvi/kb-shrink
-    image: assets/teaser/compression.png
-
-  - title: "Preventing Author Profiling through Zero-Shot Multilingual Back-Translation"
-    authors: David Adelani, <strong>Miaoran Zhang</strong>, Xiaoyu Shen, Ali Davody, Thomas Kleinbauer, Dietrich Klakow
-    conference_short: EMNLP
-    conference: "Proceedings of the 2021 Conference on Empirical Methods in Natural Language Processing, <strong>EMNLP 2021</strong>"
-    pdf: https://aclanthology.org/2021.emnlp-main.684/
-    code: https://github.com/uds-lsv/author-profiling-prevention-bt
-    image: assets/teaser/mmt.png
