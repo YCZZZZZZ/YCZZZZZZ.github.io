@@ -2,7 +2,7 @@ main:
 
   - title: "SELF-CONTROL of LLM Behaviors by Compressing Suffix Gradient into Prefix Controller"
     authors: Min Cai, <strong>Yuchen Zhang</strong>, Shichang Zhang, Difan Zou, Yisong Yue, Ziniu Hu
-    conference_short: ICML MI Workshop & FM-Wild Workshop
+    conference_short: ICML
     conference: "ICML Workshop on Foundation Models in the Wild & ICML Mechanistic Interpretability Workshop <strong>ICML 2024</strong>"
     pdf: https://arxiv.org/abs/2406.02721
     code: https://github.com/HenryCai11/LLM-Self-Control
