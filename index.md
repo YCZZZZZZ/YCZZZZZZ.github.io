@@ -6,8 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am currently a second-year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/) group at
-[Saarland University](https://www.uni-saarland.de/en/home.html), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). 
+I am currently a second-year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). 
 My research interest lies broadly in the field of Machine Learning and Artificial Intelligence. I aim to make AI and LLMs beneficial for everyone. I’m exploring how to enhance language models’ capabilities by representation steering, self-improvement and training data selection.
 
 Previously, I obtained a Bachelor’s degree from [Nanjing University of Information Science & Technology](https://en.nuist.edu.cn/main.psp) in 2021 and a Master’s degree from 
