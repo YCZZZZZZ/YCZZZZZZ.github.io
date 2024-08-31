@@ -1,15 +1,15 @@
 # Basic Information 
-title: Miaoran Zhang
-title_zh: 张妙然
-position: Ph.D. candidate
-affiliation: Saarland University, Saarland Informatics Campus
-affiliation_link: https://saarland-informatics-campus.de/en/
-affiliation_logo: ./assets/img/sic.png
-email: mzhang(at)lsv.uni-saarland.de
-email2: miaoranzhang(at)gmail.com
+title: Yuchen Zhang
+title_zh: 张宇琛
+position: Ph.D. Student in Computer Science
+affiliation: Rensselaer Polytechnic Institute
+affiliation_link: https://www.rpi.edu/
+# affiliation_logo: ./assets/img/sic.png
+email: zhangy94(at)rpi.edu
+# email2: miaoranzhang(at)gmail.com
 
 # Search Engine Optimization (SEO)
-keywords: miaoran zhang, zhang miaoran, miaoranzhang, zhangmiaoran
+keywords: yuchen zhang, zhang yuchen, yuchenzhang, zhangyuchen
 
 # The option is used to enable the Johns Hopkins template.
 #enable_hopkins_logo: true
@@ -19,14 +19,14 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-google_scholar: https://scholar.google.com/citations?user=_FuKQZoAAAAJ
-github_link: https://github.com/mrzhang11
-cv_link: ./assets/doc/CV.pdf
-linkedin: https://www.linkedin.com/in/miaoran-zhang-07923394
-# twitter: https://x.com/miaoranz
+google_scholar: https://scholar.google.com/citations?user=QFkTtL8AAAAJ&hl=en
+github_link: https://github.com/YCZZZZZZ
+# cv_link: ./assets/doc/CV.pdf
+linkedin: https://www.linkedin.com/in/yuchen-zhang-b283a221a/
+twitter: https://x.com/YuchenZE
 
 # Images 
-avatar: ./assets/img/avatar.png
+avatar: ./assets/img/resized.jpg
 favicon: ./assets/img/icon.png
 favicon_dark: ./assets/img/icon.png
 
