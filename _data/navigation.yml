@@ -1,19 +1,25 @@
 main:
 
-  - title: "Teaching"
-    url: ./#teaching
-
-  - title: "Services"
-    url: ./#services
-
-  #- title: "Talks"
-  #  url: ./#invited-talks
-
-  - title: "Publications"
-    url: ./#publications
+  - title: "About"
+    url: ./#about-me
 
   - title: "News"
     url: ./#news
 
-  - title: "About"
-    url: ./#about-me
+  - title: "Publications"
+    url: ./#publications
+  
+  - title: "Services"
+    url: ./#services
+    
+  - title: "Teaching"
+    url: ./#teaching
+
+  #- title: "Talks"
+  #  url: ./#invited-talks
+
+  
+
+  
+
+
