@@ -31,8 +31,8 @@ favicon: ./assets/img/icon.png
 favicon_dark: ./assets/img/icon.png
 
 # Footnotes
-footnote: website's source code from Yaoyao Liu.
-footnote_link: https://github.com/yaoyao-liu/yaoyao-liu.github.io
+# footnote: website's source code from Yaoyao Liu.
+# footnote_link: https://github.com/yaoyao-liu/yaoyao-liu.github.io
 
 # The following files will be removed from the generated website.
 exclude:
