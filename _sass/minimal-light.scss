@@ -158,7 +158,8 @@ body {
 }
 
 .wrapper {
-    width: 1200px; /* Increased width for a larger layout */
+    width: 1500px; /* Increased width for a larger layout */
+    text-align: center;
     margin: 0 auto;
 }
 
@@ -328,7 +329,7 @@ footer {
         gap: 1rem;
         flex-wrap: wrap;
     }
-    
+
     header {
         position: static;
         float: none;
