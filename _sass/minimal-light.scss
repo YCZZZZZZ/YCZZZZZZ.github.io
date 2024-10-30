@@ -158,9 +158,11 @@ body {
 }
 
 .wrapper {
-    width: 1500px; /* Increased width for a larger layout */
+    max-width: 1200px; /* Use max-width instead of fixed width for responsiveness */
+    width: 100%; /* Allows full width on smaller screens */
     text-align: center;
-    margin: 0 auto;
+    margin: 0 auto; /* Centers the wrapper */
+    padding: 20px; /* Optional padding for spacing around the content */
 }
 
 .pub-row {
@@ -321,7 +323,7 @@ footer {
 
 @media print, screen and (max-width: 1000px) {
     .wrapper, section, footer {
-        width: 100%;
+        width: 90%;
         margin: 0;
     }
 
