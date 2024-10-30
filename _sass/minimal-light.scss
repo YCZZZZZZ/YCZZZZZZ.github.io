@@ -304,7 +304,7 @@ header {
 
 section {
     width: 1200px; /* Increased width for a wider layout */
-    margin: 0 auto;
+    margin-left: 320px;
     padding-top: 1.2em;
     padding-bottom: 50px;
 }
@@ -327,6 +327,13 @@ footer {
     .pub-row {
         gap: 1rem;
         flex-wrap: wrap;
+    }
+    
+    header {
+        position: static;
+        float: none;
+        width: 100%;
+        padding-top: 0;
     }
 
     .image.avatar img {
