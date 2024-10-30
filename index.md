@@ -6,8 +6,8 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">About Me</h2>
 
-Hi, I am currently a second-year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). Previously, I was advised by [Dr. Ziniu Hu](https://acbull.github.io/) from XAI.
-My research interest lies broadly in the field of Machine Learning and Artificial Intelligence. I aim to make AI and LLMs beneficial for everyone. I’m exploring Data-Centric AI, e.g. data attribution and selection. I'm also trying to enhance models’ capabilities by representation steering, self-improvement, information retrieval.
+Hi, I am currently a second-year Ph.D. student in Computer Science at [Rensselaer Polytechnic Institute](https://www.rpi.edu/), advised by [Dr. Mohammad Mohammadi Amiri](https://mmamiri.github.io/). Previously, I was advised by [Dr. Ziniu Hu](https://acbull.github.io/) from xAI.
+My research interest lies broadly in the field of Machine Learning and Artificial Intelligence. I aim to make AI and LLMs beneficial for everyone. I’m exploring Data-Centric AI, e.g. data attribution and selection. I'm also trying to enhance language models’ capabilities by representation steering, self-improvement, information retrieval.
 
 Prior to that, I obtained a Bachelor’s degree from Nanjing University of Information Science & Technology in 2021 and a Master’s degree from 
 [Washington University in St. Louis](https://washu.edu/) in 2023 advised by [Dr. Jr-Shin Li](https://engineering.washu.edu/faculty/Jr-Shin-Li.html). 
