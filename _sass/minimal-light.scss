@@ -1,3 +1,4 @@
+/*
 @import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap");
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
 body { background-color: #fff; padding: 0px; font: 19.0px/1.5 Crimson Pro, serif; color: #000000; font-weight: 400; margin: 0; }
@@ -143,3 +144,206 @@ footer { width: 1000px; float: left; position: fixed; bottom: 30px; -webkit-font
 .bibref { font-size: 70%; margin-top: 10px; margin-left: 0px; display: none; font-family: monospace; }
 
 /*# sourceMappingURL=style.css.map */
+
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,500;0,600;1,500;1,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap");
+
+body {
+    background-color: #fff;
+    padding: 0px;
+    font: 19.0px/1.5 Crimson Pro, serif;
+    color: #000000;
+    font-weight: 400;
+    margin: 0;
+}
+
+.wrapper {
+    width: 1200px; /* Increased width for a larger layout */
+    margin: 0 auto;
+}
+
+.pub-row {
+    display: flex;
+    align-items: center;
+    gap: 1rem; /* Adds space between icons to prevent overlap */
+    flex-wrap: wrap; /* Allows icons to wrap on smaller screens */
+}
+
+.social-icons a {
+    display: inline-block;
+    height: 3.4rem;
+    width: 3.4rem;
+    background-color: transparent;
+    color: #002D72 !important;
+    border-radius: 100%;
+    text-align: center;
+    font-size: 2.15rem;
+    line-height: 3.5rem;
+    margin-right: 1rem;
+}
+
+.social-icons a:last-child {
+    margin-right: 0;
+}
+
+.social-icons a:hover {
+    background-color: white;
+    color: black;
+    transform: scale(1.2);
+}
+
+.icon-button {
+    background-color: white;
+    border-radius: 3.6rem;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 3.0rem;
+    height: 3.6rem;
+    line-height: 3.6rem;
+    margin: 0 5px;
+    position: relative;
+    text-align: center;
+    user-select: none;
+    width: 3.6rem;
+}
+
+.icon-button span {
+    border-radius: 0;
+    display: block;
+    height: 0;
+    left: 50%;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    transition: all 0.3s;
+    width: 0;
+}
+
+.icon-button:hover span {
+    width: 3.6rem;
+    height: 3.6rem;
+    border-radius: 3.6rem;
+    margin: -1.8rem;
+}
+
+.twitter span { background-color: #4099ff; }
+.facebook span { background-color: #4286f4; }
+.linkedin span { background-color: #0077B5; }
+.github span { background-color: #000; }
+
+email { font-size: 14px; font-family: "Ubuntu Mono"; }
+
+.icon-button i {
+    background: none;
+    color: white;
+    height: 3.6rem;
+    left: 0;
+    line-height: 3.6rem;
+    position: absolute;
+    top: 0;
+    transition: all 0.3s;
+    width: 3.6rem;
+    z-index: 10;
+}
+
+.icon-button .icon-twitter { color: #4099ff; }
+.icon-button .icon-facebook { color: #4286f4; }
+.icon-button .icon-github { color: #000; }
+.icon-button .icon-linkedin { color: #0077B5; }
+
+.icon-button:hover .icon-twitter, .icon-button:hover .icon-facebook, .icon-button:hover .icon-github, .icon-button:hover .icon-linkedin {
+    color: white;
+}
+
+.image {
+    border-radius: 0.35em;
+    border: 0;
+    display: inline-block;
+    position: relative;
+}
+
+.image:before {
+    transition: opacity 0.2s ease-in-out;
+    border-radius: 0.35em;
+    content: '';
+    display: block;
+    height: 100%;
+    left: 0;
+    opacity: 0.5;
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+.image.avatar {
+    border-radius: 100%;
+}
+
+.image.avatar:before {
+    display: none;
+}
+
+.image.avatar img {
+    border-radius: 100%;
+    width: 60%;
+    padding: 20px;
+}
+
+#header .image.avatar {
+    margin: 0 0 1em 0;
+    width: 18.00em;
+}
+
+header {
+    width: 300px;
+    float: left;
+    position: fixed;
+    padding-top: 5.5em;
+    text-align: center;
+}
+
+section {
+    width: 1200px; /* Increased width for a wider layout */
+    margin: 0 auto;
+    padding-top: 1.2em;
+    padding-bottom: 50px;
+}
+
+footer {
+    width: 100%; /* Full-width footer */
+    max-width: 1200px; /* Matches the main layout width */
+    margin: 0 auto;
+    position: fixed;
+    bottom: 30px;
+    text-align: center;
+}
+
+@media print, screen and (max-width: 1000px) {
+    .wrapper, section, footer {
+        width: 100%;
+        margin: 0;
+    }
+
+    .pub-row {
+        gap: 1rem;
+        flex-wrap: wrap;
+    }
+
+    .image.avatar img {
+        width: 117px;
+        padding: 20px;
+    }
+}
+
+@media print, screen and (max-width: 480px) {
+    .pub-row {
+        display: block;
+        align-items: center;
+        gap: 1rem;
+    }
+
+    .image.avatar img {
+        width: 95px;
+        padding: 20px;
+    }
+}
