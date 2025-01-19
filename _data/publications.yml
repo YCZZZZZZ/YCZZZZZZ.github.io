@@ -8,3 +8,12 @@ main:
     code: https://github.com/HenryCai11/LLM-Self-Control
     image: assets/teaser/Self-Control.png
 
+  - title: "Towards Efficient Influence Function: Dropout as a Compression Tool"
+    authors: <strong>Yuchen Zhang</strong>, Mohammad Mohammadi Amiri
+#    conference_short: ICML
+#    conference: "Workshop on Foundation Models in the Wild & Mechanistic Interpretability Workshop <strong>ICML 2024</strong>"
+#    pdf: https://arxiv.org/abs/2406.02721
+#    code: https://github.com/HenryCai11/LLM-Self-Control
+#    image: assets/teaser/Self-Control.png
+
+
